@@ -39,8 +39,8 @@
 
 ## 🛠 Tools & Skills
 
-`SQL` `Google BigQuery` `Funnel Analysis` `Conversion Rate Optimization` `Data Storytelling` `Business Intelligence`
-`A dashboard in Power BI that tracks the number of orders in each status`
+`SQL` `Google BigQuery` `Funnel Analysis` `Conversion Rate Optimization` `Data Storytelling` `Business Intelligence``Power BI`
+
 ---
 
 ## 📁 Project Structure
