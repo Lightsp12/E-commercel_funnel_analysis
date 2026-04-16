@@ -54,6 +54,7 @@
 │   └── 05_revenue_analysis.sql
 ├── outputs/
 │   └── query_results/
+    └── show_metrics_in_powerbi
 └── Funnel_Business_Recommendations.docx
 ```
 
